@@ -1,6 +1,6 @@
 # Dev Portfolio in Vue
 
-> A Vue.js project
+> A Portfolio easy to customize. Implemented in Vue. 
 
 ## Build Setup
 
@@ -16,6 +16,19 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
+
+
+## Builder Docker Image
+
+``` bash
+#build docker image
+
+docker build -t wjwmichael/vue-portfolio
+
+##run docker image
+
+docker run -it -p 8080:8080 --rm --name vue-portfolio-1 wjwmichael/vue-portfolio
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
