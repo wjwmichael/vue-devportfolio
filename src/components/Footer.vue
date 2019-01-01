@@ -1,6 +1,6 @@
 <template>
-    <footer>
-        <div class="container background-alt">
+    <footer class="background-alt">
+        <div class="container">
             <div class="row">
                 <div class="col-sm-5 copyright">
                     <p>
@@ -8,7 +8,7 @@
                     </p>
                 </div>
                 <div class="col-sm-2 top">
-                    <button v-scroll-to="'#lead'" style="border:none;" class="btn">
+                    <button v-scroll-to="'#lead'" style="border:none; background-color: Transparent;" class="btn">
                         <span id="to-top">
                             <i class="fa fa-chevron-up" aria-hidden="true"></i>
                         </span>
