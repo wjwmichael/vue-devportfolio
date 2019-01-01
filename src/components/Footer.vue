@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <div class="container">
+        <div class="container background-alt">
             <div class="row">
                 <div class="col-sm-5 copyright">
                     <p>
