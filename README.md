@@ -1,5 +1,10 @@
 # Dev Portfolio in Vue
 
+| Branch  | Build Status   |
+|---------|----------------|
+| master  | [![Build Status](https://travis-ci.org/wjwmichael/vue-devportfolio.svg?branch=master)](https://travis.ibm.com/IBMa/acs-reporting)    |
+
+
 > A Portfolio easy to customize. Implemented in Vue. 
 
 ## Build Setup
