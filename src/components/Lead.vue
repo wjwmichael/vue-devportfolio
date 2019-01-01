@@ -1,7 +1,7 @@
 <template>
     <div id="lead">
         <div id="lead-content">
-            <h1>Ryan Fitzgerald</h1>
+            <h1>Jiawei Wu</h1>
             <h2>Software Engineer</h2>
             <a href="#" class="btn-rounded-white">Download Resume</a>
         </div>
