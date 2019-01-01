@@ -2,7 +2,7 @@
 
 | Branch  | Build Status   |
 |---------|----------------|
-| master  | [![Build Status](https://travis-ci.org/wjwmichael/vue-devportfolio.svg?branch=master)](https://travis.ibm.com/IBMa/acs-reporting)    |
+| master  | [![Build Status](https://travis-ci.org/wjwmichael/vue-devportfolio.svg?branch=master)](https://travis.ibm.com/wjwmichael/vue-devportfolio)    |
 
 
 > A Portfolio easy to customize. Implemented in Vue. 
